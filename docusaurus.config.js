@@ -2,11 +2,11 @@
 module.exports = {
   title: 'RIMSES',
   tagline: 'Master In Maintenace',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://rimses-docusaurus.herokuapp.com/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
+  favicon: '../src/img/R_rimses_logo_small.png',
   organizationName: 'inetum', // Usually your GitHub org/user name.
   projectName: 'Rimses Docs', // Usually your repo name.
   themeConfig: {
@@ -60,7 +60,7 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           editUrl:
-            'https://github.com/z0rky/rimsesMarkdown',
+            'https://github.com/z0rky/rimsesDocusaurus',
         },
         // blog: {
         //   showReadingTime: true,
