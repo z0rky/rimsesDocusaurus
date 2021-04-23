@@ -2,11 +2,6 @@
 sidebar_position: 2
 ---
 # Step 1: Create the Rimses database.
-# meyers @@@@@@@@@@@@@@@@@@@@@@git push heroku mastergit push heroku master
-# meyers @@@@@@@@@@@@@@@@@@@@@@git push heroku mastergit push heroku master
-# meyers @@@@@@@@@@@@@@@@@@@@@@git push heroku mastergit push heroku master
-# meyers @@@@@@@@@@@@@@@@@@@@@@git push heroku mastergit push heroku master
-# meyers @@@@@@@@@@@@@@@@@@@@@@git push heroku mastergit push heroku master
 ## Step 1.1: Create the database
 
 ### 1.1.1 Provide the SQL users
