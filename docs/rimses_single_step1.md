@@ -1,5 +1,8 @@
 ---
 sidebar_position: 2
+id: rimses_single_step1
+title: First step
+sidebar_label: eerste stap
 ---
 
 # Step 1: Create the Rimses database.
